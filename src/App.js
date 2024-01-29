@@ -1,8 +1,8 @@
+import Body from "./components/Body";
+
 function App() {
   return (
-    <div className="font-bold text-blue-500">
-      Hello Binge Box
-    </div>
+    <Body></Body>
   );
 }
 
